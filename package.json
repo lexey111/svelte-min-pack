@@ -1,10 +1,10 @@
 {
 	"name": "svelte-min-pack",
-	"version": "1.0.0",
+	"version": "1.0.0",https://github.com/lexey111/svelte-min-pack/blob/main/package.json
 	"description": "Svelte minimal starter pack",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/lexey111"
+		"url": "https://github.com/lexey111/svelte-min-pack"
 	},
 	"scripts": {
 		"cleanup": "rimraf ./dist",
