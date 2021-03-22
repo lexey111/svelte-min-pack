@@ -4,7 +4,7 @@
 	"description": "Svelte minimal starter pack",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/lexey111"
+		"url": "https://github.com/lexey111/svelte-min-pack"
 	},
 	"scripts": {
 		"cleanup": "rimraf ./dist",
