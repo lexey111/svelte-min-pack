@@ -1,0 +1,29 @@
+body {
+	font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+p, li {
+	line-height: 1.4em;
+	margin-bottom: .5em;
+}
+
+hr {
+	height: 0;
+	border: none;
+	border-bottom: 1px solid var(--app-border-color);
+	margin: 2em 0;
+}
+
+h1, h2, h3, h4 {
+	font-weight: normal;
+}
+
+a, a:visited {
+	text-decoration: none;
+	color: var(--app-link-text);
+	transition: color .2s ease;
+
+	&:hover {
+		color: var(--app-link-text-active);
+	}
+}

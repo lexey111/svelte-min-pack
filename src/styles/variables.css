@@ -1,0 +1,17 @@
+:root {
+    --app-font-size: 16px;
+
+    --app-background: #f2f2f2;
+    --app-background-darken: #e2e2e2;
+    --app-text: #333;
+    --app-border-color: #bbb;
+
+    --app-accent-bg: #53add2;
+    --app-accent-text: #ffffff;
+
+    --app-link-text: #0b5fb1;
+    --app-link-text-active: #4896de;
+
+    --app-menu-bg: #1f3e5f;
+    --app-menu-text: #deecff;
+}
